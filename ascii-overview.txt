@@ -44,6 +44,3 @@ Reset b
 a-b-c-g-h-i
   |       |
  NEWHEAD HEAD
-
-
-
